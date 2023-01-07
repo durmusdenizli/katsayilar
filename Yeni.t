@@ -1,1 +1,0 @@
-denem yapıyorum
