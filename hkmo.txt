@@ -5,3 +5,4 @@
 5;2023-2;2023 Temmuz dönemi katsayıları;06.07.2023
 6;2023-2_ek;Lihkab ücretlerinde güncelleme yapıldı;18.07.2023
 7;2024-1;2024 Ocak dönemi katsayıları;05.01.2024
+8;2024-2;2024 Temmuz dönemi katsayıları;03.07.2024
