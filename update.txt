@@ -1,3 +1,3 @@
-Katsayılar ve programın yeni versiyonu yayınlanmıştır.
-3.4.3
-https://drive.google.com/file/d/1p3aHSd3XNmr9q9afc7PihtuSB5uR8HJ_/view?usp=sharing
+Kadastrolar için ilçe çarpan katsayıları güncellenmiştir. Lütfen uygulamanızı güncelleyiniz.
+3.4.4
+https://drive.google.com/file/d/1yY3IwXJBvrOLPhXOZ9z9d8qRJCBIbmXW/view?usp=sharing
