@@ -1,3 +1,4 @@
-2025/2 Dönemine ait katsayılar yayınlanmıştır. Katsayılar bölümünden indirip güncelleyebilirsiniz. 
+2026/1 Dönemine ait katsayılar yayınlanmıştır. Katsayılar bölümünden indirip güncelleyebilirsiniz. 
 3.4.7
 https://github.com/durmusdenizli/Dosyalar/raw/main/HkmoSetup3.4.7.rar
+
