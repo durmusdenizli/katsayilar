@@ -1,5 +1,5 @@
-2026/1 Dönemine ait katsayılar yayınlanmıştır. Katsayılar bölümünden indirip güncelleyebilirsiniz. 
-3.5.1
-https://github.com/durmusdenizli/Dosyalar/raw/main/HkmoSetup3.5.1.rar
+2026/2 Dönemine ait katsayılar yayınlanmıştır. Katsayılar bölümünden indirip güncelleyebilirsiniz. 
+3.5.2
+https://github.com/durmusdenizli/Dosyalar/raw/main/HkmoSetup3.5.2.rar
 
 
